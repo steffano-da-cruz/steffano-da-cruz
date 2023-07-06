@@ -1,1 +1,1 @@
-![A face made with codes.](./images/face-code.png)
+![A face made with codes.](/images/face-code.png)
