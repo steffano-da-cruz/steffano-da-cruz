@@ -1,1 +1,1 @@
-![A face made with codes.](/images/cover.gif)
+![A face made with codes.](/images/welcome-cover.gif)
