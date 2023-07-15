@@ -1,7 +1,7 @@
 ![Welcome to my GitHub](/images/welcome-cover.gif)
 
 ## A Front-end Developer
-Hello! My name is Steffano. I'm a technology undergraduate looking for an opportunity at the front-end development area in order to apply my skills and knowledges in HTML, CSS, JavaScript, among others. I'm always willing to learn something new and improve even more my capacities. And besides that, I've been studying english for more than ten years and I had conversations with native americans, through the Cambly website, for one year. For this reason, I feel really comfortable with the language, both the speaking and writing, despite still having to achieve fluency. I'm excited to share my projects with you!
+Hello! My name is Steffano. I'm a technology undergraduate looking for an opportunity at the front-end development area in order to apply my skills and knowledges in HTML, CSS, JavaScript, among others. I'm always willing to learn something new and improve even more my capacities. Besides that, I've been studying english for more than ten years and I had conversations with native americans, through the Cambly website, for one year. For this reason, I feel really comfortable with the language, both the speaking and writing, and despite being able to communicate pretty well I still need to reach fluency. I'm excited to share my projects with you!
 
 ## Technologies I'm engaging more lately
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
