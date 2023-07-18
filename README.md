@@ -10,3 +10,7 @@ Hello! My name is Steffano. I'm a technology undergraduate looking for an opport
 ![ReactJS](https://img.shields.io/badge/React.js-white?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+## My Holopin badges
+
+[![An image of @steffanodacruz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/steffanodacruz)](https://holopin.io/@steffanodacruz)
