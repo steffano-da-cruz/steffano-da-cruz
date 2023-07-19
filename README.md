@@ -13,8 +13,8 @@ Hello! My name is Steffano. I'm a technology undergraduate looking for an opport
 
 ## My stats
   
-![Steffano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&show_icons=true&theme=nightowl)
-[![Steffano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffano-da-cruz&layout=donut&theme=nightowl)](https://github.com/steffano-da-cruz/github-readme-stats)
+![Steffano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&show_icons=true&theme=holi)
+[![Steffano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffano-da-cruz&layout=donut&theme=holi)](https://github.com/steffano-da-cruz/github-readme-stats)
 
 ## My Holopin badges
 
