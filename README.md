@@ -11,6 +11,10 @@ Hello! My name is Steffano. I'm a technology undergraduate looking for an opport
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+## My stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&show_icons=true&theme=transparent)
+
 ## My Holopin badges
 
 [![An image of @steffanodacruz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/steffanodacruz)](https://holopin.io/@steffanodacruz)
