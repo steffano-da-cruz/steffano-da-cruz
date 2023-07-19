@@ -13,7 +13,7 @@ Hello! My name is Steffano. I'm a technology undergraduate looking for an opport
 
 ## My stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&show_icons=true&theme=transparent)
+![Steffano's GitHub stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&show_icons=true&theme=transparent)
 
 ## My Holopin badges
 
