@@ -13,5 +13,5 @@ Hello! My name is Steffano. I'm a technology undergraduate looking for an opport
 
 ## 📊 My GitHub stats
   
-![Steffano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=transparent)<br />
-![Steffano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffano-da-cruz&card_width=1060&layout=normal&theme=transparent)
+![Steffano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&hide_title=true&card_width=1060&line_height=29&show_icons=true&text_color=white&theme=transparent)<br />
+![Steffano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffano-da-cruz&card_width=1060&layout=normal&text_color=white&theme=transparent)
