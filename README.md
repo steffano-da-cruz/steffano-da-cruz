@@ -11,7 +11,7 @@ Hello! My name is Steffano. I'm a technology undergraduate looking for an opport
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📊 My stats
+## 📊 My GitHub stats
   
-![Steffano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&card_width=1000&line_height=27&show_icons=true&theme=holi)<br />
+![Steffano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&hide_title=true&card_width=1000&line_height=27&show_icons=true&theme=holi)<br />
 ![Steffano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffano-da-cruz&card_width=1000&layout=normal&theme=holi)
