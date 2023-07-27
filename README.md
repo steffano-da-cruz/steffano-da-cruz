@@ -8,7 +8,7 @@ Hello! I'm a technology undergraduate looking for an opportunity at the front-en
 - My main objective is to become full stack and I'm studying tirelessly
 - All my projects are in English because I feel really comfortable with the language
 - I'm reaching fluency in English, it means I dominate the language really well
-- I started programming in 2022 and I never stopped. I'm really in love with technology
+- I started programming in 2022 and I never stopped. I really fell in love with technology!
 
 ## 🛠️ Technologies I'm engaging more lately
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
