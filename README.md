@@ -4,7 +4,7 @@
 Hello! I'm a technology undergraduate looking for an opportunity at the front-end development area in order to apply my skills and knowledges in HTML, CSS, JavaScript, among others. Besides that, I've been studying English for more than ten years and, during this time, I got the chance to speak with native americans, through the Cambly website, for one year. For this reason I feel really comfortable with the language, being able to communicate pretty well and develop projects in English effortlessly, although I'm still striving to reach fluency. I'm always willing to learn something new and improve even more my capacities. I'm really excited to share my projects with you!
 
 ## 🎯 What I have been doing
-- I'm an undergraduate in Gestão da Tecnologia da Informação
+- I'm an undergraduate in Gestão da Tecnologia da Informação at Estácio University
 - I'm studying JavaScript right now. My next steps are gonna be React, TypeScript and Node
 - My main objective is to become full stack, for this reason, I'm studying tirelessly
 - I'm reaching fluency in English, it means I dominate the language pretty well
