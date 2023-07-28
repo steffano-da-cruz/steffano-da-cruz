@@ -6,7 +6,7 @@ Hello! I'm a technology undergraduate looking for an opportunity at the front-en
 ## 🎯 What I have been doing
 - I'm an undergraduate in Gestão da Tecnologia da Informação
 - I'm studying JavaScript right now. My next steps are gonna be React, TypeScript and Node
-- My main objective is to become full stack and I'm studying tirelessly
+- My main objective is to become full stack, for this reason, I'm studying tirelessly
 - All my projects are in English because I feel really comfortable with the language
 - I'm reaching fluency in English, it means I dominate the language really well
 - I started programming in 2022 and I never stopped. I really fell in love with technology!
