@@ -23,3 +23,6 @@ Hello! I'm a technology undergraduate looking for an opportunity at the front-en
   
 ![Steffano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
 ![Steffano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffano-da-cruz&card_width=1060&layout=normal&theme=github_dark)
+
+<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark" /><br />
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffano-da-cruz&card_width=1060&layout=normal&theme=github_dark" />
