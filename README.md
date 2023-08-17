@@ -26,4 +26,4 @@ Hello! I'm a technology undergraduate looking for an opportunity at the front-en
 ![Steffano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffano-da-cruz&card_width=1060&layout=normal&theme=github_dark)
 
 ## 🏆 GitHub profile trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=steffano-da-cruz)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=steffano-da-cruz)](https://github.com/steffano-da-cruz/github-profile-trophy)
