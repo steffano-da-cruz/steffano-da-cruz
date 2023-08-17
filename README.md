@@ -20,9 +20,9 @@ Hello! I'm a technology undergraduate looking for an opportunity at the front-en
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📊 My GitHub stats
+## 📊 My GitHub Stats
 ![Steffano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
 ![Steffano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffano-da-cruz&card_width=1060&layout=normal&theme=github_dark)
 
-## 🏆 GitHub profile trophy
+## 🏆 GitHub Profile Trophy
 [![Trophy](https://github-profile-trophy.vercel.app/?username=steffano-da-cruz&theme=dark_dimmed&margin-w=40&margin-h=15)](https://github.com/steffano-da-cruz/github-profile-trophy)
