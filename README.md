@@ -1,7 +1,7 @@
 ![Welcome to my GitHub](/images/welcome-cover.gif)
 
 ## 👨‍💻 About me
-Olá! Meu nome é Steffano. Estou me graduando em tecnologia e procuro por uma oportunidade na área de desenvolvimento front-end para aplicar minhas habilidades e conhecimentos em HTML, CSS, JavaScript, React, entre outros. Além disso, eu venho estudando Inglês por mais de 10 anos e, durante este período, eu tive a chance de falar com nativos americanos, através do site Cambly, por 1 ano. Por isso eu me sinto realmente confortável com a língua, sendo capaz de me comunicar muito bem e desenvolver projetos em Inglês tranquilamente, apesar de eu ainda estar me esforçando para alcançar a fluência. Eu estou sempre disposto a aprender coisas novas e a melhorar ainda mais as minhas capacidades. Eu estou bastante empolgado em compartilhar os meus projetos com você!
+Olá! Meu nome é Steffano. Estou me graduando em tecnologia e procuro uma oportunidade na área de desenvolvimento front-end para aplicar minhas habilidades e conhecimentos em HTML, CSS, JavaScript, React, entre outros. Além disso, eu venho estudando Inglês por mais de 10 anos e, durante este período, eu tive a chance de falar com nativos americanos, através do site Cambly, por 1 ano. Por isso eu me sinto realmente confortável com a língua, sendo capaz de me comunicar muito bem e desenvolver projetos em Inglês tranquilamente, apesar de eu ainda estar me esforçando para alcançar a fluência. Eu estou sempre disposto a aprender coisas novas e a melhorar ainda mais as minhas capacidades. Eu estou bastante empolgado em compartilhar os meus projetos com você!
 
 --
 
