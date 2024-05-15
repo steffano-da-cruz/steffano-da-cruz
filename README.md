@@ -30,8 +30,6 @@ Hello! I'm a technology undergraduate looking for an opportunity at the front-en
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React.js](https://img.shields.io/badge/React.js-white?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📊 My GitHub Stats
 ![Steffano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
