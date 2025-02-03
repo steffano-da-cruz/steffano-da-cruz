@@ -9,7 +9,7 @@ Hello! I'm a technology undergraduate looking for an opportunity at the front-en
 
 ## 🎯 What I have been doing
 - Estou me graduando em Gestão da Tecnologia da Informação na Universidade Estácio
-- Estou estudando React e TypeScript neste momento. Meus próximos passos serão SQL e Node
+- Estou estudando React e TypeScript neste momento. Meus próximos passos serão Node e SQL
 - O meu principal objetivo é me tornar full stack, por isso, estou estudando incansavelmente
 - Estou alcançando a fluência em Inglês, isso significa que eu domino muito bem a língua
 - Todos os meus projetos estão em Inglês por que eu realmente me sinto muito confortável com a língua
@@ -18,7 +18,7 @@ Hello! I'm a technology undergraduate looking for an opportunity at the front-en
 --
 
 - I'm an undergraduate in Gestão da Tecnologia da Informação at Estácio University
-- I'm studying React and TypeScript right now. My next steps are gonna be SQL and Node
+- I'm studying React and TypeScript right now. My next steps are gonna be Node and SQL
 - My main objective is to become full stack, for this reason, I'm studying tirelessly
 - I'm reaching fluency in English, it means I dominate the language pretty well
 - All my projects are in English because I feel really comfortable with the language
