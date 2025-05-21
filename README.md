@@ -13,7 +13,7 @@ Hello! My name is Steffano. I graduated in Gestão da Tecnologia da Informação
 - O meu principal objetivo é me tornar full stack, por isso, estou estudando incansavelmente
 - Estou alcançando a fluência em Inglês, isso significa que eu domino muito bem a língua
 - Todos os meus projetos estão em Inglês por que eu realmente me sinto muito confortável com a língua
-- Eu comecei a programar em 2022 e nunca mais parei. Eu me apaixonei por tecnologia!
+- Eu comecei a programar em 2022 e me apaixonei por tecnologia!
 
 --
 
@@ -22,7 +22,7 @@ Hello! My name is Steffano. I graduated in Gestão da Tecnologia da Informação
 - My main objective is to become full stack, for this reason, I'm studying tirelessly
 - I'm reaching fluency in English, it means I dominate the language pretty well
 - All my projects are in English because I feel really comfortable with the language
-- I started programming in 2022 and I've never stopped. I fell in love with technology!
+- I started programming in 2022 and I fell in love with technology!
 
 ## 🛠️ Technologies I'm engaging more lately
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
