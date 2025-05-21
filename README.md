@@ -30,6 +30,7 @@ Hello! My name is Steffano. I graduated in Gestão da Tecnologia da Informação
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React.js](https://img.shields.io/badge/React.js-white?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&color=green)
 
 ## 📊 My GitHub Stats
 ![Steffano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steffano-da-cruz&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
