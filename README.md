@@ -18,7 +18,7 @@ Hello! My name is Steffano. I graduated in Gestão da Tecnologia da Informação
 --
 
 - I graduated in Gestão da Tecnologia da Informação at Estácio University
-- I'm studying and developing projects utilizing React, TypeScript, Node.js and PostgreSQL
+- I'm studying and developing projects using React, TypeScript, Node.js and PostgreSQL
 - My main objective is to become full stack, for this reason, I'm studying tirelessly
 - I'm reaching fluency in English, it means I dominate the language pretty well
 - All my projects are in English because I feel really comfortable with the language
