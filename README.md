@@ -10,7 +10,7 @@ Hello! My name is Steffano. I graduated in Gestão da Tecnologia da Informação
 ## 🎯 What I have been doing
 - Terminei o curso superior em Gestão da Tecnologia da Informação na Universidade Estácio
 - Estou estudando e desenvolvendo projetos usando React, TypeScript, Node.js e PostgreSQL
-- O meu principal objetivo é me tornar full stack, por isso, estou estudando incansavelmente
+- O meu principal objetivo é me tornar full-stack, por isso estou estudando incansavelmente
 - Estou alcançando a fluência em Inglês, isso significa que eu domino muito bem a língua
 - Todos os meus projetos estão em Inglês por que eu realmente me sinto muito confortável com a língua
 - Eu comecei a programar em 2022 e me apaixonei por tecnologia!
@@ -19,7 +19,7 @@ Hello! My name is Steffano. I graduated in Gestão da Tecnologia da Informação
 
 - I graduated in Gestão da Tecnologia da Informação at Estácio University
 - I'm studying and developing projects using React, TypeScript, Node.js and PostgreSQL
-- My main objective is to become full stack, for this reason, I'm studying tirelessly
+- My main objective is to become full-stack, for this reason I'm studying tirelessly
 - I'm reaching fluency in English, it means I dominate the language pretty well
 - All my projects are in English because I feel really comfortable with the language
 - I started programming in 2022 and I fell in love with technology!
